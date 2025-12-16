@@ -26,3 +26,5 @@ while low <= high:
 print(f"Found at position {lst.index(n)}" if found else "Not Found")
 
 
+
+

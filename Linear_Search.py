@@ -8,6 +8,6 @@ for i in lst:
         found = True
         break
 
-print(f"Found at position {lst.index(n)}" if found else "Not found")
+print("Found" if found else "Not found")
 
 
